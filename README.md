@@ -1,4 +1,5 @@
 - 👋 Hello there, I’m Miguel
+https://www.linkedin.com/in/miguel-gutjar/
 
 <!---
 MikierXXV/MikierXXV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
