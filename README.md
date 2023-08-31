@@ -2,7 +2,7 @@
 
 ## Top repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Green-Wheel&repo=MobileAPP&show_owner=true&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/Green-Wheel/MobileAPP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikierXXV&repo=LAYUP&show_owner=true&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/MikierXXV/LAYUP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MikierXXV&repo=MyPorfolio&show_owner=true&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/MikierXXV/MyPorfolio)
 ## Github  Stats
 [![Mikier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikierXXV&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff)](https://github.com/MikierXXV)
 
